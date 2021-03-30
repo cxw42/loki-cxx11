@@ -1,5 +1,27 @@
 /doc/html
 
+# Tests
+test/CachedFactory/CachedFactoryTest
+test/DeletableSingleton/DeletableSingleton
+test/Factory/Factory
+test/Function/FunctionTest
+test/LockingPtr/main
+test/Longevity/main
+test/Longevity/main2
+test/OrderedStatic/main
+test/Pimpl/main
+test/Register/main
+test/RegressionTest/Test
+test/SafeFormat/main
+test/ScopeGuard/main
+test/Singleton/Dependencies
+test/SingletonDll/client
+test/Singleton/Phoenix
+test/SmallObj/SmallObjBench
+test/SmallObj/SmallObjSingleton
+test/SmartPtr/main
+test/Visitor/main
+
 # Prerequisites
 *.d
 *.dep
