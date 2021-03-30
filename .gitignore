@@ -1,0 +1,75 @@
+# Prerequisites
+*.d
+*.dep
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+loki-cxx11-*/
+loki-cxx11-*.tar.gz
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Coverage
+*.gcda
+*.gcno
+/*coverage.info
+/*coverage/
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Temp and backup files
+*.swp
+*.tmp
+*~
+~*
+*.e
+*.bak
+*.tdy
+*.orig
+
+# Other
+*.pdf
+tags
